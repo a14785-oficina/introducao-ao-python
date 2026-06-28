@@ -1,0 +1,6 @@
+print("Hello World!")
+print("Olá Mundo!")
+print("---")
+print("João Paulo")
+print("GPSI")
+print("OFICINA")
